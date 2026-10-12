@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.estusciagroup.com/sitemap.xml
